@@ -35,7 +35,7 @@ h4 {
     border-style: solid;
 }
 
-p.largeText {
+.largeText {
     color: black;
     font-family: "Times New Roman";
     font-size: 17px;
@@ -46,4 +46,8 @@ p.largeText {
     font-size: 15px;
     background-color: #fff8dc;
     width:max-content;
+}
+
+#plot.largeText {
+    color:darkslategray;
 }
